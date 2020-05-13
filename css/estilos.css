@@ -1,0 +1,50 @@
+body {
+    background: url(../img/bg.gif);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-position: center;
+	background-repeat: no-repeat;
+    font-family: 'Neucha', cursive;
+    color: crimson;
+    font-size: 2em;
+    height: 100vh;
+}
+
+h1 {
+    text-align: center;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.container2 {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.imagens {
+    display: flex;
+    justify-content: space-around;
+}
+.img-up {
+    width: 20%;
+}
+
+.ak {
+    transform: rotate(300deg);
+}
+
+.ak2 {
+    
+    transform: scaleX(-1) rotate(-70deg);
+}
+
+p {
+    font-size: 30px;
+}
+
+.img-foguinho {
+    width: 100%;
+    height: 120px;
+}
